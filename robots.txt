@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://interinsu.github.io/sitemap.html.gz
+Sitemap: https://interinsu.github.io/app/sitemap.html.gz
+Sitemap: https://interinsu.github.io/assets/sitemap.html.gz
+Sitemap: https://interinsu.github.io/css/sitemap.html.gz
+Sitemap: https://interinsu.github.io/includes/sitemap.html.gz
+Sitemap: https://interinsu.github.io/item/sitemap.html.gz
+Sitemap: https://interinsu.github.io/src/sitemap.html.gz
